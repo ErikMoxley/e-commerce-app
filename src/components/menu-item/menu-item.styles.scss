@@ -19,6 +19,7 @@
 
     & .content {
       opacity: 0.8;
+      transition: opacity 0.8s ease-out;
     }
   }
 
